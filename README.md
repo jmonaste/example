@@ -4,32 +4,17 @@ I'm Javier. I work as a full-time software engineer & Analyst. In my spare time 
 
 ### Getting in touch
 
-<a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
+<a href="https://twitter.com/javierignacioms" title="Follow me on Twitter">
   <img
     width="24"
     alt="Follow me on Twitter"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
   /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
+<a href="https://www.linkedin.com/in/javier-monasterio-solar-436245114/" title="Follow me on LinkedIn">
   <img
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
 &nbsp;
-<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
-  <img
-    width="24"
-    alt="Follow me on Medium"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
-  /></a>
-&nbsp;
-<a href="https://dev.to/trekhleb" title="Follow me on DevTo">
-  <img
-    width="24"
-    alt="Follow me on DevTo"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
-  /></a>
-
-[trekhleb.dev](https://trekhleb.dev)
