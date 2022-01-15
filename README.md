@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Javier. I work as a full-time software engineer & Analyst. In my spare time I do open-sourcing and I'm focused in **learning** 📚.
+I'm Javier. I work as a full-time software engineer & Analyst. In my spare time I do open-sourcing and I'm focused in **learning** 📚
 
 ### Getting in touch
 
