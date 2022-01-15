@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**jmonaste/jmonaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Javier. I work as a full-time software engineer & Analyst. In my spare time I do open-sourcing _(normally it is about 1-2 hours in the morning before the work)_. Most of my open-source projects below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_, or to learn _Python_ syntax and start experimenting with _machine learning algorithms_ and math behind them, etc. I also write [articles](https://trekhleb.dev/blog/) about life, web-development and machine learning.
 
-Here are some ideas to get you started:
+### Getting in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+&nbsp;
+<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
+  <img
+    width="24"
+    alt="Follow me on Medium"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
+  /></a>
+&nbsp;
+<a href="https://dev.to/trekhleb" title="Follow me on DevTo">
+  <img
+    width="24"
+    alt="Follow me on DevTo"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
+  /></a>
+
+[trekhleb.dev](https://trekhleb.dev)
